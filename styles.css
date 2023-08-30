@@ -1,0 +1,18 @@
+body{background-color: #A5C9CA; 
+display: flex;
+justify-content: center;align-items: center;
+flex-direction: column;}
+
+hr{
+    border-color: grey;
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px;
+}
+
+h3{
+    color: #159895;
+}
+img{
+    border-radius: 50%;
+}
